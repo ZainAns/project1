@@ -18,4 +18,4 @@ if flag:
 else:
     print(num, "is a prime number")
 
-#program completed
+#program completed  
